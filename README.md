@@ -8,8 +8,8 @@ source ~/.my_bash_profile/main.sh
 ```
 
 ## utils
-[x] gitacp -- (pull), add, commit, push
-[x] kubepod -- get the full pod name
+- [x] gitacp -- (pull), add, commit, push
+- [x] kubepod -- get the full pod name
 
 ## aliasses
 These are really personnal, not very exportable yet.
