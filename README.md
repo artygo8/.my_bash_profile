@@ -1,4 +1,4 @@
-# my_bash_profile
+# .my_bash_profile
 Useful functions that I use everyday.
 
 ## usage
