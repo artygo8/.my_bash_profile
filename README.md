@@ -13,7 +13,8 @@ Note: You are invited to modify the aliasses since they are very personal
 - [x] gitacp -- (pull), add, commit, push
 - [x] kubepod -- get the full pod name
 
-| - [x] : tested | - [ ] : untested/in progress |
+> - [x] : tested
+> - [ ] : untested/in progress
 
 ## aliasses
 These are really personal, not very exportable yet.
