@@ -1,5 +1,5 @@
 #!/bin/bash
-destinations=(".profile" ".bashrc")
+destinations=(".profile" ".bashrc" ".zshrc")
 command="source ~/.my_bash_profile/srcs/main.sh"
 
 test=0

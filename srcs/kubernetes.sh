@@ -3,7 +3,6 @@ function kubepod {
 		echo usage: kubepod name
 		echo example: kubepod wordpress
 	else
-		ret=`kubectl get pods | grep "\S*$1\S*"`
-		return ret
+		kubectl get pods | grep -o "\S*$1\S*"
 	fi
 }
