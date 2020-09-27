@@ -6,7 +6,7 @@ test=0
 for dest in ${destinations[@]}; do
 	if [ -f ~/$dest ]; then
 		test=1;
-		if [ -z `cat ~/$dest | grep "$command"` ]; then
+		if [ -z "`cat ~/$dest | grep "$command"`" ]; then
 			echo $command >> ~/$dest;
 		fi
 	fi
