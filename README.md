@@ -2,14 +2,16 @@
 Useful functions that I use everyday.
 
 ## usage
-Its up to you ! Personally, I clone the repo into my home directory, then i edit the .profile (on macOS) and/or the .bashrc (works better on Linux) with the following :
+Clone the repo inside your **home directory**, then launch the installation script.
 ```bash
-source ~/.my_bash_profile/main.sh
+git clone https://github.com/Artygo8/.my_bash_profile.git && \
+~/.my_bash_profile/install.sh
 ```
+Note: You are invited to modify the aliasses since they are very personal
 
 ## utils
 - [x] gitacp -- (pull), add, commit, push
 - [x] kubepod -- get the full pod name
 
 ## aliasses
-These are really personnal, not very exportable yet.
+These are really personal, not very exportable yet.
