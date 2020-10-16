@@ -12,6 +12,7 @@ Note: You are invited to modify the aliasses since they are very personal
 ## utils
 - [x] gitacp -- (pull), add, commit, push
 - [x] kubepod -- get the full pod name
+- [x] 42header -- header at top for C files if none -- change name in main.sh or export $USER42
 
 > - [x] : tested
 > - [ ] : untested/in progress
